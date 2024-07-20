@@ -6,7 +6,7 @@
   },
   {
     "name": "AppSettings__BrandImage",
-    "value": "https://docs.microsoft.com/en-us/microsoft-365/media/contoso-overview/contoso-icon.png",
+    "value": "/logo.png",
     "slotSetting": false
   },
   {
